@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="ServidorCloudCluster/ServidorCloudCluster.vcxproj" />
+  <Project Path="ServidorCloudCluster/ServidorCloudCluster.vcxproj" Id="727188ee-cbe8-451e-a7cb-7e30fd8e9335" />
 </Solution>
